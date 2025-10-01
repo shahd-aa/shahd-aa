@@ -1,5 +1,9 @@
 <h1 align="center">ˋ°•*⁀➷ hey, ich bin <b><i>shahd</i></b> ₊ ⊹</h1>
-<h3 align="center">placeholder for now</h3>
+<h3 align="center"> ehrgeizige schülerin + gamerin </h3>
+<li> einfach jemand mit leidenschaft für design + programmieren :> </li>
+<li> 10. klasse fleißige schülerin am gymnasium in deutschland </li>
+<li> lerne gerade game development und webdesign </li>
+<li> gebe alles für meine zukunft <3 </li>
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahd-aa&show_icons=true&locale=en&layout=compact&theme=radical" alt="shahd-aa" />
@@ -16,7 +20,7 @@
     </p>
     
   <p>
-      <b>Connect with me:</b>
+      <b>find mich hier:</b>
       <a href="https://instagram.com/s.h.vxn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.h.vxn" height="20" width="30" /></a>
       <a href="https://discord.gg/sillyyux" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sillyyux" height="20" width="30" /></a>
     </p>
