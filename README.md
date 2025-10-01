@@ -1,9 +1,11 @@
-<h1 align="center">ˋ°•*⁀➷ hey, ich bin <b><i>shahd</i></b> ₊ ⊹</h1>
+<h1 align="center">ˋ°•*⁀➷ hey, ich bin <b><i>shahd</i></b>. ₊ ⊹</h1>
 <h3 align="center"> ehrgeizige schülerin + gamerin </h3>
-<li> einfach jemand mit leidenschaft für design + programmieren :> </li>
-<li> 10. klasse fleißige schülerin am gymnasium in deutschland </li>
-<li> lerne gerade game development und webdesign </li>
-<li> gebe alles für meine zukunft <3 </li>
+<div align="center">
+➤ einfach jemand mit leidenschaft für design + programmieren :> <br>
+➤ 10. klasse schülerin am gymnasium - will abi schaffen <br>
+➤ lerne gerade game development und webdesign <br>
+➤ gebe alles für meine zukunft <3 <br>
+</div>
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahd-aa&show_icons=true&locale=en&layout=compact&theme=radical" alt="shahd-aa" />
