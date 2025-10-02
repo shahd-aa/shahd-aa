@@ -1,8 +1,8 @@
 <h1 align="center">ˋ°•*⁀➷ hey, ich bin <b><i>shahd</i></b>. ₊ ⊹</h1>
 
-<h1 align="center">willkommen ⸜(｡˃ ᵕ ˂ )⸝♡</h1>
+<h2 align="center">willkommen auf meinem profil ⸜(｡˃ ᵕ ˂ )⸝♡</h2>
 
-![Alt text](https://github.com/shahd-aa/shahd-aa/blob/main/hehe_jinx.png)
+<kbd> <img src="https://github.com/shahd-aa/shahd-aa/blob/main/hehe_jinx.png"> </kbd>
 
 
 <h3 align="center"> ehrgeizige schülerin + gamerin </h3>
@@ -31,7 +31,6 @@
   <p>
       <b>find mich hier:</b>
       <a href="https://instagram.com/s.h.vxn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.h.vxn" height="20" width="30" /></a>
-      <a href="https://discord.gg/sillyyux" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sillyyux" height="20" width="30" /></a>
     </p>
   </div>
 </div>
