@@ -1,5 +1,7 @@
 <h1 align="center">ˋ°•*⁀➷ hey, ich bin <b><i>shahd</i></b>. ₊ ⊹</h1>
 
+<h1 align="center">willkommen ⸜(｡˃ ᵕ ˂ )⸝♡</h1>
+
 ![Alt text](https://github.com/shahd-aa/shahd-aa/blob/main/hehe_jinx.png)
 
 
