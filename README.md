@@ -8,8 +8,8 @@
 <h3 align="center"> ehrgeizige schülerin + gamerin </h3>
 <div align="center">
 ➤ einfach jemand mit leidenschaft für <b>design + programmieren</b> &nbsp ٩(^ᗜ^ )و  <br>
-➤ <b>10. klasse</b> schülerin am gymnasium - will abi schaffen &nbsp ˙✧˖°🎓 ༘⋆｡ <br>
-➤ lerne gerade <b> spielentwicklung und webdesign </b> &nbsp ⋆˚࿔ 👾⋆ ࿔<br>
+➤ <b>10. klasse</b> schülerin am gymnasium - will abi schaffen &nbsp 🎓 <br>
+➤ lerne gerade <b> spielentwicklung und webdesign </b> &nbsp 👾<br>
 ➤ leider kenn ich schlaf nicht, bin dafür aber sehr fleißig &nbsp (˶ᵔ ᵕ ᵔ˶) <br>
 ➤ gebe alles für meine <b> zukunft </b> &nbsp ♡ <br>
 </div>
