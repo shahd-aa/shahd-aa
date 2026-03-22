@@ -29,8 +29,8 @@
     </p>
     
   <p>
-      <b>find mich hier:</b>
-      <a href="https://instagram.com/s.h.vxn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.h.vxn" height="20" width="30" /></a>
+      <!-- <b>find mich hier:</b> will be added later
+      <a href="https://instagram.com/s.h.vxn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.h.vxn" height="20" width="30" /></a> -->
     </p>
   </div>
 </div>
