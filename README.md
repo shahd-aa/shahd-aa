@@ -5,12 +5,11 @@
 <kbd> <img src="https://github.com/shahd-aa/shahd-aa/blob/main/hehe_jinx.png"> </kbd>
 
 
-<h3 align="center"> ehrgeizige schülerin + gamerin </h3>
+<h3 align="center"> ehrgeizige schülerin + entwicklerin </h3>
 <div align="center">
-➤ einfach jemand mit leidenschaft für <b>design + programmieren</b> &nbsp ٩(^ᗜ^ )و  <br>
-➤ <b>10. klasse</b> schülerin am gymnasium - will abi schaffen (<2,0 wäre traum) &nbsp 🎓 <br>
-➤ lerne gerade <b> spielentwicklung und 3D-modellierung </b> &nbsp 👾<br>
-➤ schlafe nicht xD bin dafür aber sehr fleißig &nbsp (˶ᵔ ᵕ ᵔ˶) <br>
+➤ einfach jemand mit leidenschaft für <b>design + programmieren</b> &nbsp  <br>
+➤ <b>11. klasse</b> schülerin am gymnasium - will abi schaffen &nbsp 🎓 <br>
+➤ interessiert an <b> spielentwicklung und 3D-modellierung </b> &nbsp 👾<br>
 ➤ gebe alles für meine <b> zukunft </b> &nbsp ♡ <br>
 </div>
 
@@ -20,17 +19,17 @@
   <div>
     <h3>programmiersprachen & tools:</h3>
     <p>
-     〚 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a> 〛
+     〚 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="30" height="30"/></a> 
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="30" height="30"/></a> 〛
      〚  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/></a>
-      <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/></a> 〛
+            <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/></a> 〛
     </p>
     
   <p>
-      <!-- <b>find mich hier:</b> will be added later
-      <a href="https://instagram.com/s.h.vxn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.h.vxn" height="20" width="30" /></a> -->
     </p>
   </div>
 </div>
